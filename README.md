@@ -29,5 +29,5 @@ EDA helped in understanding the dataset clearly and revealed important patterns 
 ---
 
 ## 👩‍💻 Author
-- Name: Your Name  
+- Name: Umme Kulsoom 
 - Internship: CodeAlpha Data Analytics Internship  
